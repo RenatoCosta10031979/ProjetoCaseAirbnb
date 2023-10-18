@@ -1,2 +1,2 @@
 # ProjetoCaseAirbnb
-Explorando o Conjunto de Dados do Airbnb. 
+Análise de Dados: Case Airbnb  
