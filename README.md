@@ -46,7 +46,7 @@ Fonte: https://www.kaggle.com/datasets/thedevastator/airbnb-price-determinants-i
 ### **Pergunta de negócio**
  Fazer uma análise exploratória de dados com a base de dados do Airbnb e indicar possíveis oportunidades e/ou ameaças para o empreendimento.
  
-### **Tecnologias utilizadas**:
+### **Tecnologias utilizadas**
    * Python (Linguagem de programação)
    * Pandas (truturas de dados e operações para manipular tabelas numéricas e séries temporais)
    * Google Colab (ambiente de programação interativo que permite escrever e executar código do Python  e suas bibliotecas no navegador)
