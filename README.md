@@ -1,4 +1,5 @@
 # **Projeto- Case Airbnb**
+Análise exploratória dos dados da empresa de hospedagem Airbnb, identificando os principais insights sobre o mercado de aluguel de imóveis por temporada.
 
 Escola: SoulCode Academy
 
@@ -45,6 +46,29 @@ Fonte: https://www.kaggle.com/datasets/thedevastator/airbnb-price-determinants-i
 
 ### **Pergunta de negócio**
  Fazer uma análise exploratória de dados com a base de dados do Airbnb e indicar possíveis oportunidades e/ou ameaças para o empreendimento.
+
+ ### **Dicionário sobre a base de dados Airbnb**
+
+*   realSum: preço total da acomodação para duas pessoas e duas noites em EUR;  
+*   room_type: tipo de quarto oferecido;
+*   room_shared: se o quarto é compartilhado ou não;
+*   room_private: se o quarto é privativo ou não;
+*   person_capacity: número máximo de pessoas permitidas na propriedade;
+*   host_is_superhost: se o host é ou não um superhost;
+*   multi: tem vários quartos ou não;
+*   biz: seja para uso comercial ou familiar;
+*   cleanliness_rating: Classificação de limpeza (escala de pontuação:0-10);
+*   guest_satisfaction_overall: satisfação geral do hóspede (escala pontuação: 0-100);
+*   bedrooms: número de quartos;
+*   dist: a distância do centro da cidade;
+*   metro_dist: a distância da estação de metrô mais próxima;
+*   metro_dist: distância da estação de metro mais próxima em km;
+*   attr_index: índice de atração do local do anúncio;
+*   attr_index_norm: índice de atracção normalizado ( escala de pontuação: 0-100);
+*   rest_index:índice de restaurantes do local do anúncio;
+*   rest_index_norm: índice de restaurantes normalizado (escala de pontuação: 0-100);
+*   lng: Longitude
+*   lat: Latitude
  
 ### **Tecnologias utilizadas**
    * Python (Linguagem de programação)
