@@ -17,7 +17,7 @@ Aluno: Renato Gonçalves Costa
 
 Para visualizar o projeto, você não precisa necessariamente executar o código. O projeto está no modo de exibição. Isso significa que qualquer pessoa que tenha o link para o notebook poderá visualizá-lo, inclusive os resultados, as análises e os gráficos. Para abrir o notebook Colab do projeto de análise de dados do Airbnb no GitHub, siga estas etapas:
 Acesse o repositório do projeto no GitHub.
-Clique na pasta de nome "notebook_colab", em seguida clique no arquivo "Semana_6_Projeto_03_Case_Airbn_aluno_renato_costa_AD2.ipynb"  ao clicar no arquivo clique no botão Abrir no Colab, localizado no canto superior esquerdo da página.
+Clique na pasta de nome "notebook_colab", em seguida clique no arquivo "Semana_6_Projeto_03_Case_Airbn_aluno_renato_costa_AD2.ipynb",  ao clicar no arquivo clique no icone Abrir no Colab, localizado no canto superior esquerdo da página.
 
 ### **Execução do Projeto**
 
