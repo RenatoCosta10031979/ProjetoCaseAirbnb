@@ -148,12 +148,12 @@ Potenciais investidores podem considerar o segmento de "Entire home/apt" como um
 
 ### **Documentação:**
 
-      * Python: link: https://docs.python.org/3/
-      * Pandas: link: https://pandas.pydata.org/docs/
-      * Numpy: link: https://numpy.org/doc/
-      * Matplotlib: link: https://matplotlib.org/
-      * Pandera: link: https://pandera.readthedocs.io/en/stable/
-      * Airbnb link: https://www.airbnb.com/     
-      * Base de dados Airbnb: Link: https://www.kaggle.com/datasets/thedevastator/airbnb-price-determinants-in-europe
-      * Determinants of Airbnb prices in European cities: A spatial econometrics approach. Link: https://www.sciencedirect.com/science/article/pii/S0261517721000388?via%3Dihub
-      * MapQuest Geocode reverso: Link: https://developer.mapquest.com/documentation/geocoding-api/reverse/get/
+* [Python](https://docs.python.org/3/)
+* [Pandas](https://pandas.pydata.org/docs/)
+* [Numpy](https://numpy.org/doc/)
+* [Matplotlib](https://matplotlib.org/)
+* [Pandera](https://pandera.readthedocs.io/en/stable/)
+* [Airbnb](https://www.airbnb.com/)
+* [Base de dados Airbnb no Kaggle](https://www.kaggle.com/datasets/thedevastator/airbnb-price-determinants-in-europe)
+* [Determinants of Airbnb prices in European cities: A spatial econometrics approach](https://www.sciencedirect.com/science/article/pii/S0261517721000388?via%3Dihub)
+* [MapQuest Geocode Reverso](https://developer.mapquest.com/documentation/geocoding-api/reverse/get/)
